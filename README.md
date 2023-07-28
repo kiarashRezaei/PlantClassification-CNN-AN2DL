@@ -17,7 +17,7 @@ Sure! Below is the template for the README file based on the provided code:
 
 ## Description
 
-This project is part of Homework 1 of Artificial Neural Network and Deep Learning(AN2DL) course (A.Y 22/23) and focuses on image classification using transfer learning with various pre-trained models such as ResNet50, ResNet152, and EfficientNetB4. The goal is to classify images into one of the eight categories.
+This project is part of Homework 1 of Artificial Neural Networks and Deep Learning(AN2DL) course at Politecnico di Milano (A.Y 22/23) and focuses on image classification using transfer learning with various pre-trained models such as ResNet50, ResNet152, and EfficientNetB4. The goal is to classify images into one of the eight categories.
 
 ## Getting Started
 
